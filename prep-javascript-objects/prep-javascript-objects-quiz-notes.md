@@ -8,6 +8,7 @@ After completing this exercise, you should be able to discuss or answer the foll
   Object properties can hold the following data types:
   Primitive data types: number, string, boolean, null, undefined, and symbol.
   Object data types: another object, arrays.
+  Functions, any valid value.
 
 - Describe the syntax (structure) of object-literals in JavaScript.
   In the beginning, declare an object like you would a variable: const keyword, identifier, and an equals sign.
