@@ -18,6 +18,9 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 - What does the `+=` "plus-equals" operator do?
   The += (Addition Assignment Operator) adds a value to an already existing variable.
+  2 seperate operations:
+  Adding a value or concatenating a string to the variable.
+  Reassigning the new value back to the variable.
 
 ## Notes
 
